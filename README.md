@@ -10,5 +10,10 @@ PyAutoGUI is a cross-platform GUI automation Python module for human beings. Use
 
 Uses the location of Middlefinger, to move our mouse accross the screen.
 
-Give a bump to your middle finger with index finger to Click...😉
+Give a bump to your middle finger with index finger to <b>Click...</b>😉
 
+Snap your index finger with ring finger to <b>Right Click</b>...
+
+Snap your thumb with index finger to <b>Scroll Up</b>.
+
+Snap your thumb with Little Finger to <b>Scroll Down</b>.
