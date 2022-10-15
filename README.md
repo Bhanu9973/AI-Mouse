@@ -1,4 +1,4 @@
-# AI Mouse
+# AI Mouse UsinG Fingers
 This is an AI mouse, which is controlled by your Middle finger.
 
 This is developed using opencv-python and mediapipe modules.
